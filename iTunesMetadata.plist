@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Geshe Kelsang Gyatso</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>CCBBDBC4AF64FACC89CDE9CD2E9FE364</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/image/HTTYL-itunes-cover-1600x2400-_2015-05.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>91A9553C7BAA4541CD152C4F718873EC</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:09380B20-A5DB-4EFB-BDF6-9CFEF602D955</string>
+		<key>unique-id</key>
+		<integer>2750278546821750971</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>How to Transform Your Life</string>
+	<key>playlistName</key>
+	<string>How to Transform Your Life</string>
+	<key>releaseDate</key>
+	<string>2016</string>
+</dict>
+</plist>
